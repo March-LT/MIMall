@@ -1,10 +1,10 @@
 <template>
-  <div class="">oderConfirm</div>
+  <div class="">OderHerader</div>
 </template>
 
 <script>
 export default {
-  name: "oderConfirm",
+  name: "oder-header",
   components:{},
   data(){
     return {
